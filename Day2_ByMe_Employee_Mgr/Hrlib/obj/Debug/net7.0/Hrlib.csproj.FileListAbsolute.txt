@@ -1,0 +1,12 @@
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.csproj.AssemblyReference.cache
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.AssemblyInfoInputs.cache
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.AssemblyInfo.cs
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.csproj.CoreCompileInputs.cache
+G:\DotNet_PM\Day2_PM\Hrlib\bin\Debug\net7.0\Hrlib.deps.json
+G:\DotNet_PM\Day2_PM\Hrlib\bin\Debug\net7.0\Hrlib.dll
+G:\DotNet_PM\Day2_PM\Hrlib\bin\Debug\net7.0\Hrlib.pdb
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.dll
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\refint\Hrlib.dll
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\Hrlib.pdb
+G:\DotNet_PM\Day2_PM\Hrlib\obj\Debug\net7.0\ref\Hrlib.dll
